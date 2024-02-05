@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Password_Generator",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A robust React-based Password Generator styled with Tailwind CSS. Create strong, secure passwords with customizable options (length, uppercase, lowercase, numbers, special characters). Effortlessly copy generated passwords with a single click. Enjoy a user-friendly interface and responsive design for a seamless experience.",
+    url: "https://ridhikajoshi-password-generator.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "QuickExchange",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple currency converter web application that allows users to convert between different currencies. The application fetches real-time exchange rates using a third-party API and provides an easy-to-use interface for users to input values and select currencies for conversion.",
+    url: "https://ridhikajoshi-quickexchange.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Anagram_Quest",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Anagram Quest: A captivating word puzzle game! Rearrange jumbled letters, test your vocabulary, and challenge your brain. Score points for correct answers, race against the timer for added excitement, and enjoy sound effects for feedback. Responsive design ensures a seamless experience on different screen sizes. Dive into this anagram-solving adventure and have fun!",
+    url: "https://anagram-quest.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "E-Bakery-Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Welcome to the E-Bakery Website project—an enticing online platform designed to bring the delightful experience of a bakery to the digital realm. Our aim is to create an engaging space that seamlessly showcases a diverse array of bakery products. With a focus on nearly 100% device responsiveness, users can enjoy a consistent and enjoyable journey across desktops, tablets, and smartphones.",
+    url: "https://e-bakerywebsite.netlify.app/",
   },
 ];
 
